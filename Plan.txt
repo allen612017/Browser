@@ -8,3 +8,5 @@ To do:
 	1) Write pseudocode
 	2) Design functions
 	
+
+//Good Start!
