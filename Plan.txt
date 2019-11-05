@@ -9,4 +9,20 @@ To do:
 	2) Design functions
 	
 
-//Good Start!
+useful documentation:
+	
+	link 1 - https://docs.microsoft.com/en-us/dotnet/api/system.io.directoryinfo.getfiles?view=netframework-4.8#System_IO_DirectoryInfo_
+		 GetFiles_System_String_System_IO_SearchOption_
+
+	 	- This shows me the method of how to obtain the file names from a given directory and also informs us
+		   about the amount of directories that we want to go through. 
+
+	link 2 - https://docs.microsoft.com/en-us/dotnet/api/system.io.directoryinfo.getfiles?view=netframework-4.8#System_IO_DirectoryInfo
+		_GetFiles_System_String_System_IO_SearchOption_
+
+		- Shows how to correctly use the search option method.
+
+
+Change log
+05.11.19 - We researched how to use the method:DirectoryInfo.GetFiles() in order to retreive a list of all the files in a directory and spent some time getting 
+	   familiar with how to use it.
